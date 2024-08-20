@@ -1,3 +1,4 @@
+hello|merhaba|50.0|
 emre|1|50.0|
 try|deneme|50.0|
 try|deneme|50.0|
