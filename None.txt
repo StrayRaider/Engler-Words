@@ -3,3 +3,4 @@ desk|masa|44.80000000000002|büyük harf denemesi
 phone|telefon|45.600000000000016|
 hello|merhaba|50.0|asd
 monday|pazartes|50.0|
+tuesday|salı|50.0|
