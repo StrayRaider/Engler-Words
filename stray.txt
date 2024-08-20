@@ -1,3 +1,9 @@
 tree|ağaç|79.59999999999995|bu bir deneme metnidirasd
 desk|masa|44.80000000000002|büyük harf denemesi
 phone|telefon|45.600000000000016|
+hello|merhaba|50.0|asd
+monday|pazartes|50.0|
+tuesday|salı|50.0|
+try|deneme|50.0|
+||50.0|
+wednesday|çarşamba|50.0|
