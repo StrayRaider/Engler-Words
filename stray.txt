@@ -1,2 +1,5 @@
 unauthorized|yetkisiz|50.0|
 company|şirket|50.0|
+continuous|sürekli, devamlı|50.0|
+delivery|teslimat|50.0|
+standalone|bağımsız|50.0|
