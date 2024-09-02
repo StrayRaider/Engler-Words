@@ -1,1 +1,2 @@
 unauthorized|yetkisiz|50.0|
+company|şirket|50.0|
