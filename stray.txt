@@ -3,3 +3,4 @@ company|şirket|50.0|
 continuous|sürekli, devamlı|50.0|
 delivery|teslimat|50.0|
 standalone|bağımsız|50.0|
+common|ortak, yaygın, sıradan|50.0|ortak yol, amaç
