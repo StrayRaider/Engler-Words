@@ -17,3 +17,5 @@ backlog|birikmiş iş yığını,birikim,rezerv|50.0|
 accomplish|sonuçlandırmak,başarmak|50.0|
 improve|geliştirmek|50.0|
 act|eylem,davranmak|50.0|
+submit|göndermek,sunmak|50.0|
+make out|çıkarmak|50.0|what do we makeout of this?bundan ne çıkardık?
