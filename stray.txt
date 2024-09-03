@@ -1,6 +1,7 @@
 unauthorized|yetkisiz|50.0|
 company|şirket|50.0|
-continuous|sürekli, devamlı|50.0|
-delivery|teslimat|50.0|
+continuous|sürekli, devamlı|49.6|
+delivery|teslimat|49.6|
 standalone|bağımsız|50.0|
 common|ortak, yaygın, sıradan|50.0|ortak yol, amaç
+i thought|düşündüm, sandım, sanmıştım|50.4|
