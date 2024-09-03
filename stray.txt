@@ -9,3 +9,4 @@ multicellular|çok hücreli|50.0|
 rapid|ani|50.0|
 domain|alan|50.0|
 retrieve|kavuşmak,geri almak|50.0|
+venture|girişim|50.0|venture product, girişim ürünü
