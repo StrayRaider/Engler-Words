@@ -10,3 +10,7 @@ rapid|ani|50.0|
 domain|alan|50.0|
 retrieve|kavuşmak,geri almak|50.0|
 venture|girişim|50.0|venture product, girişim ürünü
+relie|güvenmek|50.0|
+promote|terfi,desteklemek,teşvik etmek|50.0|
+in brief|kısaca,özet olarak|50.0|
+backlog|birikmiş iş yığını,birikim,rezerv|50.0|
