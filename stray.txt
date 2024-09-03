@@ -14,3 +14,5 @@ relie|güvenmek|50.0|
 promote|terfi,desteklemek,teşvik etmek|50.0|
 in brief|kısaca,özet olarak|50.0|
 backlog|birikmiş iş yığını,birikim,rezerv|50.0|
+accomplish|sonuçlandırmak,başarmak|50.0|
+improve|geliştirmek|50.0|
