@@ -19,3 +19,5 @@ improve|geliştirmek|50.0|
 act|eylem,davranmak|50.0|
 submit|göndermek,sunmak|50.0|
 make out|çıkarmak|50.0|what do we makeout of this?bundan ne çıkardık?
+benefit|fayda,yarar|50.0|
+neglect|ihmal etmek|50.0|
