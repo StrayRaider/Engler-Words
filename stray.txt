@@ -1,23 +1,23 @@
 unauthorized|yetkisiz|50.0|
-company|şirket|50.0|
-continuous|sürekli, devamlı|49.6|
-delivery|teslimat|49.6|
-standalone|bağımsız|50.0|
+company|şirket|49.6|
+continuous|sürekli, devamlı|49.2|
+delivery|teslimat|49.2|
+standalone|bağımsız|49.6|
 common|ortak, yaygın, sıradan|50.0|ortak yol, amaç
 i thought|düşündüm, sandım, sanmıştım|50.4|
 multicellular|çok hücreli|50.0|
-rapid|ani|50.0|
-domain|alan|50.0|
+rapid|ani|50.8|
+domain|alan|49.6|
 retrieve|kavuşmak,geri almak|50.0|
-venture|girişim|50.0|venture product, girişim ürünü
+venture|girişim|50.4|venture product, girişim ürünü
 relie|güvenmek|50.0|
-promote|terfi,desteklemek,teşvik etmek|50.0|
+promote|terfi,desteklemek,teşvik etmek|50.4|
 in brief|kısaca,özet olarak|50.0|
-backlog|birikmiş iş yığını,birikim,rezerv|50.0|
-accomplish|sonuçlandırmak,başarmak|50.0|
-improve|geliştirmek|50.0|
-act|eylem,davranmak|50.0|
-submit|göndermek,sunmak|50.0|
-make out|çıkarmak|50.0|what do we makeout of this?bundan ne çıkardık?
-benefit|fayda,yarar|50.0|
-neglect|ihmal etmek|50.0|
+backlog|birikmiş iş yığını,birikim,rezerv|50.4|
+accomplish|sonuçlandırmak,başarmak|51.199999999999996|
+improve|geliştirmek|49.6|
+act|eylem,davranmak|50.4|
+submit|göndermek,sunmak|49.6|
+make out|çıkarmak|50.4|what do we makeout of this?bundan ne çıkardık?
+benefit|fayda,yarar|49.6|
+neglect|ihmal etmek|50.8|
