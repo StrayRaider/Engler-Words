@@ -21,3 +21,4 @@ submit|göndermek,sunmak|49.6|
 make out|çıkarmak|50.4|what do we makeout of this?bundan ne çıkardık?
 benefit|fayda,yarar|49.6|
 neglect|ihmal etmek|50.8|
+consern|endişe|50.0|
