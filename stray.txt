@@ -23,3 +23,4 @@ benefit|fayda,yarar|49.6|
 neglect|ihmal etmek|50.8|
 consern|endişe|50.0|
 necessity|gereklilik,zorunluluk|50.0|
+compelling|ikna edici|50.0|
