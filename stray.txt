@@ -24,3 +24,13 @@ neglect|ihmal etmek|50.8|
 consern|endişe|50.0|
 necessity|gereklilik,zorunluluk|50.0|
 compelling|ikna edici|50.0|
+decade|on yıl|50.0|
+extrapolate|çıkarım yapmak|50.0|
+disruption|kesintiye uğramak|50.0|
+outage|kesinti|50.0|
+impairment|bozulma|50.0|
+proportion|oran|50.0|
+tightly coupled|sıkı sıkıya bağlı|50.0|
+scarce|nadir,zar zor|50.0|
+exploratory|keşifsel|50.0|
+loosely coupled|gevşek şekilde bağlanmış|50.0|
