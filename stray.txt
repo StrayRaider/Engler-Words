@@ -48,3 +48,6 @@ robust|sağlam|50.0|
 resilience|dayanıklılık|50.0|
 robustness|sağlamlık|50.0|
 distinctive|ayırt edici|50.0|
+arises|ortaya çıkar|50.0|
+possess|sahip olmak|50.0|have
+expertise|uzmanlık|50.0|
