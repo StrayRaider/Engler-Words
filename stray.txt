@@ -35,3 +35,4 @@ scarce|nadir,zar zor|50.0|
 exploratory|keşifsel|50.4|
 loosely coupled|gevşek şekilde bağlanmış|50.8|
 gap|açıklık,boşluk|50.0|
+canonic|kanonik|50.0|birşeyi yapmanın standart yolu
