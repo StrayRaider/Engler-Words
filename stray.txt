@@ -34,3 +34,4 @@ tightly coupled|sıkı sıkıya bağlı|50.0|
 scarce|nadir,zar zor|50.0|
 exploratory|keşifsel|50.4|
 loosely coupled|gevşek şekilde bağlanmış|50.8|
+gap|açıklık,boşluk|50.0|
