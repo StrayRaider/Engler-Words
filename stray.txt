@@ -51,3 +51,14 @@ distinctive|ayırt edici|50.0|
 arises|ortaya çıkar|50.0|
 possess|sahip olmak|50.0|have
 expertise|uzmanlık|50.0|
+involves|içerir|50.0|
+vital|hayati|50.0|
+tailored|uyarlanmış|50.0|
+conventional|geleneksel|50.0|
+retains|tutar|50.0|nem gibi..
+drawback|dezavantaj|50.0|
+approach|yaklaşmak|50.0|
+substantial|önemli|50.0|
+contemporary|modern|50.0|
+immense|engin|50.0|
+prohibitively|yasaklayıcı derecede|50.0|
