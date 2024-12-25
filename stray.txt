@@ -36,3 +36,6 @@ exploratory|keşifsel|50.4|
 loosely coupled|gevşek şekilde bağlanmış|50.8|
 gap|açıklık,boşluk|50.0|
 canonic|kanonik|50.0|birşeyi yapmanın standart yolu
+diverse|çeşitli,türlü|50.0|
+fidelity|sadakat|50.0|
+incorporating|dahil etmek|50.0|
