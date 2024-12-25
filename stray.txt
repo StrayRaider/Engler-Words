@@ -39,3 +39,12 @@ canonic|kanonik|50.0|birşeyi yapmanın standart yolu
 diverse|çeşitli,türlü|50.0|
 fidelity|sadakat|50.0|
 incorporating|dahil etmek|50.0|
+insight|içgörü|50.0|
+intervention|müdahale|50.0|
+therapeutic|iyileştirici|50.0|
+comprehensive|kapsayıcı|50.0|
+demonstrate|göstermek|50.0|
+robust|sağlam|50.0|
+resilience|dayanıklılık|50.0|
+robustness|sağlamlık|50.0|
+distinctive|ayırt edici|50.0|
