@@ -1,66 +1,67 @@
 unauthorized|yetkisiz|50.4|
-company|şirket|50.0|
-continuous|sürekli, devamlı|48.800000000000004|
-delivery|teslimat|48.800000000000004|
+company|şirket|49.6|
+continuous|sürekli, devamlı|49.2|
+delivery|teslimat|48.400000000000006|
 standalone|bağımsız|49.6|
-common|ortak, yaygın, sıradan|50.4|ortak yol, amaç
+common|ortak, yaygın, sıradan|51.199999999999996|ortak yol, amaç
 i thought|düşündüm, sandım, sanmıştım|51.199999999999996|
-multicellular|çok hücreli|50.0|
-rapid|ani|50.8|
-domain|alan|50.0|
+multicellular|çok hücreli|49.6|
+rapid|ani|51.199999999999996|
+domain|alan|49.6|
 retrieve|kavuşmak,geri almak|50.4|
-venture|girişim|50.4|venture product, girişim ürünü
-relie|güvenmek|50.0|
-promote|terfi,desteklemek,teşvik etmek|50.8|
-in brief|kısaca,özet olarak|50.0|
-backlog|birikmiş iş yığını,birikim,rezerv|50.4|
+venture|girişim|50.8|venture product, girişim ürünü
+relie|güvenmek|51.199999999999996|
+promote|terfi,desteklemek,teşvik etmek|51.199999999999996|
+in brief|kısaca,özet olarak|51.199999999999996|
+backlog|birikmiş iş yığını,birikim,rezerv|50.8|
 accomplish|sonuçlandırmak,başarmak|51.599999999999994|
 improve|geliştirmek|49.2|
-act|eylem,davranmak|50.4|
-submit|göndermek,sunmak|49.6|
-make out|çıkarmak|50.4|what do we makeout of this?bundan ne çıkardık?
-benefit|fayda,yarar|49.6|
+act|eylem,davranmak|50.8|
+submit|göndermek,sunmak|50.0|
+make out|çıkarmak|50.8|what do we makeout of this?bundan ne çıkardık?
+benefit|fayda,yarar|49.2|
 neglect|ihmal etmek|51.599999999999994|
-consern|endişe|50.0|
-necessity|gereklilik,zorunluluk|50.4|
-compelling|ikna edici|50.0|
-decade|on yıl|50.0|
+consern|endişe|50.4|
+necessity|gereklilik,zorunluluk|50.8|
+compelling|ikna edici|50.4|
+decade|on yıl|50.4|
 extrapolate|çıkarım yapmak|50.0|
-disruption|kesintiye uğramak|50.0|
-outage|kesinti|50.4|
-impairment|bozulma|50.4|
-proportion|oran|50.0|
-tightly coupled|sıkı sıkıya bağlı|50.0|
-scarce|nadir,zar zor|50.0|
-exploratory|keşifsel|50.4|
-loosely coupled|gevşek şekilde bağlanmış|50.8|
-gap|açıklık,boşluk|50.0|
-canonic|kanonik|50.0|birşeyi yapmanın standart yolu
-diverse|çeşitli,türlü|50.0|
-fidelity|sadakat|50.0|
-incorporating|dahil etmek|50.0|
+disruption|kesintiye uğramak|51.199999999999996|
+outage|kesinti|50.8|
+impairment|bozulma|51.599999999999994|
+proportion|oran|50.4|
+tightly coupled|sıkı sıkıya bağlı|50.4|
+scarce|nadir,zar zor|50.4|
+exploratory|keşifsel|50.0|
+loosely coupled|gevşek şekilde bağlanmış|51.599999999999994|
+gap|açıklık,boşluk|49.6|
+canonic|kanonik|49.6|birşeyi yapmanın standart yolu
+diverse|çeşitli,türlü|50.8|
+fidelity|sadakat|50.4|
+incorporating|dahil etmek|50.8|
 insight|içgörü|50.0|
 intervention|müdahale|50.0|
-therapeutic|iyileştirici|50.0|
-comprehensive|kapsayıcı|50.0|
-demonstrate|göstermek|50.0|
-robust|sağlam|50.0|
+therapeutic|iyileştirici|50.8|
+comprehensive|kapsayıcı|51.199999999999996|
+demonstrate|göstermek|50.8|
+robust|sağlam|49.6|
 resilience|dayanıklılık|50.0|
 robustness|sağlamlık|50.0|
-distinctive|ayırt edici|50.0|
-arises|ortaya çıkar|50.0|
-possess|sahip olmak|50.0|have
-expertise|uzmanlık|50.0|
+distinctive|ayırt edici|50.8|
+arises|ortaya çıkar|49.6|
+possess|sahip olmak|50.8|have
+expertise|uzmanlık|49.6|
 involves|içerir|50.0|
 vital|hayati|50.0|
-tailored|uyarlanmış|50.0|
+tailored|uyarlanmış|50.4|
 conventional|geleneksel|50.0|
-retains|tutar|50.0|nem gibi..
-drawback|dezavantaj|50.0|
+retains|tutar|50.4|nem gibi..
+drawback|dezavantaj|50.4|
 approach|yaklaşmak|50.0|
-substantial|önemli|50.0|
-contemporary|modern|50.0|
-immense|engin|50.0|
+substantial|önemli|49.6|
+contemporary|modern|51.199999999999996|
+immense|engin|50.8|
 prohibitively|yasaklayıcı derecede|50.0|
-sought|aranan|50.0|
-mitigate|hafifletmek|50.0|
+sought|aranan|50.8|
+mitigate|hafifletmek|50.8|
+concise|kısa ve öz|50.0|
