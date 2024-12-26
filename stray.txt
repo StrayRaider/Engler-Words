@@ -62,3 +62,5 @@ substantial|önemli|50.0|
 contemporary|modern|50.0|
 immense|engin|50.0|
 prohibitively|yasaklayıcı derecede|50.0|
+sought|aranan|50.0|
+mitigate|hafifletmek|50.0|
