@@ -65,3 +65,4 @@ prohibitively|yasaklayıcı derecede|50.0|
 sought|aranan|50.8|
 mitigate|hafifletmek|50.8|
 concise|kısa ve öz|50.0|
+curious|meraklı|50.0|
