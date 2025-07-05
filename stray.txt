@@ -75,3 +75,8 @@ constraint|kısıtlama|50.0|
 merely pile up|sadece yığılmak|50.0|
 constituted|oluşturulmuş|50.0|
 unreasonable|mantıksız|50.0|
+resilient|dayanıklı|50.0|
+catastrophe|felaket|50.0|
+merely|sadece|50.0|
+swarmed|istila etmek, kuşatmak|50.0|
+absence|yokluk|50.0|
