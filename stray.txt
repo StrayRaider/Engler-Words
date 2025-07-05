@@ -67,3 +67,5 @@ mitigate|hafifletmek|51.199999999999996|
 concise|kısa ve öz|50.0|
 curious|meraklı|50.0|
 revolution|devrim|50.0|
+shrink|küçültmek|50.0|
+strive|çabalamak|50.0|
