@@ -1,6 +1,6 @@
 unauthorized|yetkisiz|50.4|
 company|şirket|49.6|
-continuous|sürekli, devamlı|49.2|
+continuous|sürekli, devamlı|49.6|
 delivery|teslimat|48.400000000000006|
 standalone|bağımsız|49.6|
 common|ortak, yaygın, sıradan|51.199999999999996|ortak yol, amaç
@@ -55,14 +55,14 @@ involves|içerir|50.0|
 vital|hayati|50.0|
 tailored|uyarlanmış|50.4|
 conventional|geleneksel|50.0|
-retains|tutar|50.4|nem gibi..
+retains|tutar|50.8|nem gibi..
 drawback|dezavantaj|50.4|
 approach|yaklaşmak|50.0|
-substantial|önemli|49.6|
+substantial|önemli|50.0|
 contemporary|modern|51.199999999999996|
 immense|engin|50.8|
 prohibitively|yasaklayıcı derecede|50.0|
 sought|aranan|50.8|
-mitigate|hafifletmek|50.8|
+mitigate|hafifletmek|51.199999999999996|
 concise|kısa ve öz|50.0|
 curious|meraklı|50.0|
