@@ -69,3 +69,7 @@ curious|meraklı|50.0|
 revolution|devrim|50.0|
 shrink|küçültmek|50.0|
 strive|çabalamak|50.0|
+remediate|düzeltmek|50.0|
+inevitably|kaçınılmaz olarak|50.0|
+constraint|kısıtlama|50.0|
+merely pile up|sadece yığılmak|50.0|
