@@ -80,3 +80,4 @@ catastrophe|felaket|50.0|
 merely|sadece|50.0|
 swarmed|istila etmek, kuşatmak|50.0|
 absence|yokluk|50.0|
+demanding|zorlu|50.0|demanding context
