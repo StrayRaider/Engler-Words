@@ -83,3 +83,8 @@ absence|yokluk|50.0|
 demanding|zorlu|50.0|demanding context
 withdrew|geri çekildi|50.0|
 chubby|hantal|50.0|
+wrinkling|kırıştırmak|50.0|
+cautius|dikkatli|50.0|
+craned her neck|boynunu uzattı|50.0|
+investigate|araştırmak|50.0|
+clump|küme|50.0|clump of bushes
