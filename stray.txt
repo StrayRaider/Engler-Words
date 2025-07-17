@@ -88,3 +88,7 @@ cautius|dikkatli|50.0|
 craned her neck|boynunu uzattı|50.0|
 investigate|araştırmak|50.0|
 clump|küme|50.0|clump of bushes
+obtain|elde etmek|50.0|
+recesses|girintiler|50.0|
+profound|engin|50.0|
+incessant|aralıksız|50.0|
